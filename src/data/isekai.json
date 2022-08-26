@@ -1,0 +1,894 @@
+{
+	"title": "Debauchia",
+	"description": "A semi-interactive CYOA for r/CelebEconomy by u/spanchob",
+	"data": [
+		{
+			"type": "paragraph",
+			"title": "Introduction",
+			"description": [
+				"You were going about your life as usual until one day when you fell asleep, you woke up in the Kingdom of Debauchia. You explored the new world and soon realised you had immense influence in this world and were universally attractive to all women. Seeing this you decide to take advantage and have some fun.",
+				"The Kingdom of Debauchia was currently undergoing a power struggle. The king had died a few days ago and all stakeholders in the Kingdom were trying to establish their own new order.",
+				"First there is the Aristocracy, a collection of land-owning nobles who seek to establish a semi democratic commonwealth where all nobles get to vote and elect a King of their choosing.",
+				"Second there is the Monarchy, under their Queen who seeks to retain the status quo and have the current Queen establish an autocratic monarchy with all citizens serving as her subjects.",
+				"Lastly, there is the Rebellion who seek to take advantage of the chaos to violently take over Kingdom and establish a democratic republic with universal sufferage for all citizens.",
+				"With your special abilities you have the chance to pick a side and decide the fate of the Kingdom of Debauchia. You will also obviously be able to have some fun with the beautiful ladies you meet along the way. (Your choices will determine what ending you get, so choose carefully.)"
+			]
+		},
+		{
+			"type": "choice",
+			"title": "Damsel",
+			"description": "You were buying goods at the local market in Debauchia, when you noticed a beautiful woman leaving the store. Curious, you decided to see where she was going until she entered an alley where she was cornered by some criminals. Seeing her in distress, you chose to present yourself and intimidate the criminals to leave her alone. Thankful, she decides to take you to her house to repay you for saving her.",
+			"choices": [
+				{
+					"name": "Taylor Swift",
+					"image": "TaylorSwift.jpg",
+					"modifier": "+2 Aristocracy",
+					"perk": "",
+					"description": "Taylor took you to her large manor on the outskirts of the city, where she told you that she was actually the daughter of the Duke of a nearby province. She took you to her bedroom, took off her clothes and pushed you on the bed. She then proceeded to suck your hardening cock before mounting you in cowgirl. She aggressively rode you while moaning loudly for 30 minutes, after which you finally came inside her. Exhausted she layed down on you as if she had run a marathon, with a large grin on her face."
+				},
+				{
+					"name": "Victoria Justice",
+					"image": "VictoriaJustice.jpg",
+					"modifier": "+2 Monarchy",
+					"perk": "",
+					"description": "Victoria took you to the Imperial Palace in the center of the city, where she told you that she was a Princess, a sister of the Queen. She took you to her room tooks off her clothes and called for her handmaiden. She then proceeds to blow you while her handmaiden licks her pussy. After a while she bends over her bed, presenting her pussy and ass to you. You decide to take her up on the offer and fuck her doggystyle while making out with her handmaiden. You give her a deep creampie before you leave, which she seemed to enjoy"
+				},
+				{
+					"name": "Anna Kendrick",
+					"image": "AnnaKendrick.jpg",
+					"modifier": "+2 Rebellion",
+					"perk": "",
+					"description": "Anna took you to a hideout in the residential areas of the city, where she told you that she was the Aide-de-Camp of the people's rebellion. She took you to her room, where you were able to see her sex toy collection. She proceeded to pull out a fleshlight and give you a handjob with it, while talking dirty to you. Excited, you decide to pull her by her hair and bend her over, exposing her pink pussy. You then proceed to fuck her roughly as she moans loudly, asking you to breed her. You cum in her pussy fulfilling her wishes as she smiles."
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Duchess",
+			"description": "While you were fucking Taylor, her mother, the Duchess peeped on you and started masterbating. A few days after you left the manor, you recieved a letter inviting you to live in the manor with the Duchess and her daughter, in exchange for providing them with sexual pleasure. You were also given a carriage which took you to the manor. When you entered the manor, you found Taylor and her mother naked on the couch making out with each other. Needless to say, you joined them and gave them the best night of their life.",
+			"choices": [
+				{
+					"name": "Natalie Portman",
+					"image": "NataliePortman.jpg",
+					"modifier": "+1 Aristocracy",
+					"perk": "",
+					"description": "\"You may not be a noble, but this dick is a mark of royal blood. Take me as your cumbucket and breed me so that you may become the Duke and I may bear your heir.\""
+				},
+				{
+					"name": "Jennifer Connelly",
+					"image": "JenniferConnelly.jpg",
+					"modifier": "+3 Aristocracy",
+					"perk": "",
+					"description": "\"I've seen you fuck my daughter and how loud she moans. Why dont you fuck me for a bit and then I wear a strap on and we both make Taylor moan even louder!\""
+				},
+				{
+					"name": "Christina Hendricks",
+					"image": "ChristinaHendricks.jpg",
+					"modifier": "+2 Aristocracy",
+					"perk": "",
+					"description": "\"Yes honey, manhandle my boobs and ass and make me feel like a young woman again! Taylor, come finger you mother's pussy and suck off our guest will you!\""
+				}
+			],
+			"pick": 1,
+			"condition": {
+				"conditional": "intersect",
+				"a": "Damsel.name",
+				"b": [
+					"Taylor Swift"
+				]
+			}
+		},
+		{
+			"type": "choice",
+			"title": "Queen",
+			"description": "While leaving the Royal Palace, the Queen stopped you and asked what you were doing in the Royal Quarters. You told her that you were here to meet the her sister and how you saved her from those criminals. Touched, the Queen decided to offer you a chamber in the palace to stay as a royal guest. At night, while you were about to go to sleep in your chambers, you heard a knock at your door. When you opened the door, the Queen and Victoria were waiting for you, naked. Needless to say you three had a fun time that night.",
+			"choices": [
+				{
+					"name": "Margot Robbie",
+					"image": "MargotRobbie.jpg",
+					"modifier": "+2 Monarchy",
+					"perk": "",
+					"description": "\"I haven't had a cock in me since the king died, so fuck me as hard as you can. Don't worry about pulling out, I want your cum to breed me so that I can bear your bastard son!\""
+				},
+				{
+					"name": "Mary Winstead",
+					"image": "MaryWinstead.jpg",
+					"modifier": "+3 Monarchy",
+					"perk": "",
+					"description": "\"You like your Queen's body commoner! Why don't you fuck her with your pathetic dick while making out with her sister. OH SHIT that's big! FUCK! FUCK! FUCK! be gentle commoner!\""
+				},
+				{
+					"name": "Emilia Clarke",
+					"image": "EmiliaClarke3.jpg",
+					"modifier": "+1 Monarchy",
+					"perk": "",
+					"description": "\"You like my boobs more than my sister's don't you big brother! Why don't you fuck me while Victoria watches and gets jealous big brother! Take me as your fuckpet and ravage me please!\""
+				}
+			],
+			"pick": 1,
+			"condition": {
+				"conditional": "intersect",
+				"a": "Damsel.name",
+				"b": [
+					"Victoria Justice"
+				]
+			}
+		},
+		{
+			"type": "choice",
+			"title": "Commander",
+			"description": "Rumors of your affair with Anna spread throughout the rebel camp, until one day the commander sent her men to bring you to the rebel camp once more. She then presented you with an offer. You will have to help the rebellion and fight against the oppresive monarchy, in exchange you will be provided housing and taken care of after the revolution. To sweeten the deal, the commander offered her as well as Anna's raw sexual bodies for you to ravage and fulfil your baser desires throughout the revolution.",
+			"choices": [
+				{
+					"name": "Selena Gomez",
+					"image": "SelenaGomez.jpg",
+					"modifier": "+1 Rebellion",
+					"perk": "",
+					"description": "\"Oh Jeez, thats a huge hog, lemme try putting that in my mouth. Shit, fuck blowing you why don't you go ahead and just fuck me in the ass. You can play with Anna while fucking me as well!\""
+				},
+				{
+					"name": "Maisie Williams",
+					"image": "MaisieWilliams.jpg",
+					"modifier": "+2 Rebellion",
+					"perk": "",
+					"description": "\"Oh yeah daddy you like it when I ride you! You like it when your little slut mounts your cock and fucks you while you make out with her Aide de Camp! Cum in me daddy, please cum in me!\""
+				},
+				{
+					"name": "Felicity Jones",
+					"image": "FelicityJones.jpg",
+					"modifier": "+3 Rebellion",
+					"perk": "",
+					"description": "\"Choke me master, pull my hair and make me your little fuckpet. Anna why don't you make out with master and let me lick your pussy. I want your cum in me so that I can feel your warm semen\""
+				}
+			],
+			"pick": 1,
+			"condition": {
+				"conditional": "intersect",
+				"a": "Damsel.name",
+				"b": [
+					"Anna Kendrick"
+				]
+			}
+		},
+		{
+			"type": "choice",
+			"title": "Innkeeper",
+			"description": "The inn in the city serves as a central hub for all peoples, rich and poor, powerful or powerless. As such, the innkeep knows everyone's secrets and is willing to share them for a price. For you, this price is you giving giving her a night she wont forget as you dominate and ravage her in the inn's presidential suite. Obviously, you like this deal and visit the inn often to get secrets and provide the innkeep with \"payment\" every now and then.",
+			"choices": [
+				{
+					"name": "Katherine McNamara",
+					"image": "KatherineMcNamara.jpg",
+					"modifier": "+1 Aristocracy",
+					"perk": "",
+					"description": "\"I want you to take me as a slave you won in conquest. Ravage me and use me for your pleasure my master! Pull my hair and spank my ass so that I may tell you the secrets of my previous lord!\""
+				},
+				{
+					"name": "Elizabeth Gillies",
+					"image": "ElizabethGillies.jpg",
+					"modifier": "+1 Monarchy",
+					"perk": "",
+					"description": "\"I can't believe the queen wants your pathetic dick. I bet you can't even make me cum. Do you even know how to pleas-AH yes fuck me just like that! Oh im going to cum all over your dick!\""
+				},
+				{
+					"name": "Emily Blunt",
+					"image": "EmilyBlunt.jpg",
+					"modifier": "+1 Rebellion",
+					"perk": "",
+					"description": "\"I haven't had an orgasm in many moons so fuck me like you mean it. Make sweet love to me and hold me like I'm yours to fuck forever. After sex we can cuddle and sleep together as well\""
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Blacksmith",
+			"description": "While your infulence is useful you need to arm yourself to deal with problems more aggressively. As such you find a blacksmith in the city to make you armor as well as a sword. For payment, the blacksmith suggests that you use your well endowed body to pay her. You spent that night at the blacksmith's place.",
+			"choices": [
+				{
+					"name": "Sophie Turner",
+					"image": "SophieTurner2.jpg",
+					"modifier": "+1 Aristocracy",
+					"perk": "",
+					"description": "\"Use your large dick to pound me like I pound iron on the anvil! You want to pull my hair? Go ahead pull my hair as you take me in doggystyle, I love the pain.\""
+				},
+				{
+					"name": "Natalie Dormer",
+					"image": "NatalieDormer.jpg",
+					"modifier": "+1 Monarchy",
+					"perk": "",
+					"description": "\"Just becuase I'm letting you pay me in sex doesn't mean I'm your whore. I am the royal blacksmith and you work for my pleasure, not the other way around.\""
+				},
+				{
+					"name": "Zoey Deutch",
+					"image": "ZoeyDeutch2.jpg",
+					"modifier": "+1 Rebellion",
+					"perk": "",
+					"description": "\"I want you to kiss my body and make me feel loved before you fuck me like I'm your misbehaving daughter. Choke me and fuck me in missionary please daddy.\""
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Businesswoman",
+			"description": "In order to get economic influence in the kingdom, you get in contact with an influential businesswoman. The businesswoman invites you to her house for dinner and sex, which you accept gladly.",
+			"choices": [
+				{
+					"name": "Leighton Meester",
+					"image": "LeightonMeester.jpg",
+					"modifier": "+1 Aristocracy",
+					"perk": "",
+					"description": "\"I built my empire on the money I got from my divorce. Now I need you to provide me the daily rough sex that I lost from the divorce, in exchange for my vote in the chamber of commerce\""
+				},
+				{
+					"name": "Rose Byrne",
+					"image": "RoseByrne2.jpg",
+					"modifier": "+1 Monarchy",
+					"perk": "",
+					"description": "\"I was so involved in the business that I never made time for things like sex. So please sir, teach me how to have sex in exchange for my vote. Am I blowing you right? Is this the right hole?\""
+				},
+				{
+					"name": "Jenna Coleman",
+					"image": "JennaColeman.jpg",
+					"modifier": "+1 Rebellion",
+					"perk": "",
+					"description": "\"I want you to rip apart my dress and handle me like I'm your fleshlight. My body longs for a strong commoner like you to come and take my virginity and steal my vote and influence.\""
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "photopara",
+			"title": "Extra: Like Mother, Like Daughter",
+			"celeb": {
+				"name": "Blair Waldorf",
+				"image": "BlairWaldorf.jpg"
+			},
+			"description": [
+				"While walking back to your residence from Leighton's house, you encounter her daughter, Blair, in a schoolgirl uniform. She is clearly no longer a schoolgirl and as such seeing her like this is extremely weird.",
+				"\"Like what you see, daddy? You are fucking my mother so I guess that makes you my daddy, no? Anyway, if you like how I look now, I wonder what you will think of me after you take me home.\" she says while unbuttoning her shirt",
+				"Excited, you invite her into your carriage, where she took off your pants and started to blow you. \"Daddy your cock is so big, I don't think I can fit it all down my throat!\" she says while deepthroating you and gagging",
+				"When you finally arrived at your residence, you ripped off her shirt and fucked her in doggy while pulling on her hair and playing with her skirt. You then turned her around and fucked her in missionary while kissing her aggressively.",
+				"\"SHIT DADDY CUM INSIDE ME! MAKE ME A MOMMY AS WELL DADDY!\" she yelled before you came inside her. Afterwards, you covered her face, ass, skirt and back in cum, before sending her back home, naked."
+			],
+			"condition": {
+				"conditional": "intersect",
+				"a": "Businesswoman.name",
+				"b": [
+					"Leighton Meester"
+				]
+			}
+		},
+		{
+			"type": "choice",
+			"title": "Bodyguard",
+			"description": "In order to pretect yourself from your enemies, you decide to hire a mercenary as your bodyguard. You eventually seduced your bodyguard, and now whenever you are alone, you have her blow you or you fuck her ass and give her a creampie. She would often give you the \"Fuck Me\" eyes when you two are in a close private space together. Seeing the signal you lock the door and take off your pants and facefuck her as she fingers herself",
+			"choices": [
+				{
+					"name": "Daisy Ridley",
+					"image": "DaisyRidley.jpg",
+					"modifier": "+1 Aristocracy",
+					"perk": "",
+					"description": "\"Let me deepthroat you before you fuck me in my bubble butt sir. Please fuck my ass, using my spit from the deepthroat as lube and finish inside me to make me cum all over your body.\""
+				},
+				{
+					"name": "Alice Eve",
+					"image": "AliceEve.jpg",
+					"modifier": "+1 Monarchy",
+					"perk": "",
+					"description": "\"Sir, please be gentle on my body, I am not really used to getting used for sex. I am fine with you pulling my hair or spanking my ass but please dont fuck my ass too hard, I can't take the pain\""
+				},
+				{
+					"name": "Jaimie Alexander",
+					"image": "JaimieAlexander.jpg",
+					"modifier": "+1 Rebellion",
+					"perk": "",
+					"description": "\"Men like you have tried and failed to make me cum, so I don't expect you to be any different. Ok wow thats a big hog. Fuck my ass while I finger my pussy and make myself cum master.\""
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Trainer",
+			"description": "While having a bodyguard was all well and good, you needed to train your body to gain respect through sports. As such, you hired a personal trainer to better yourself physically, however her excercises were eccentric. You would often find her \"training\" you by asking you to fuck her for hours at an end to build up your stamina. You of course obliged, fucking her tight hot body and making her cum all over your dick multiple times. Afterwards, she would ask you to join her in the shower where you would proceed to dominate her as a reward for finishing your training.",
+			"choices": [
+				{
+					"name": "Scarlett Johansson",
+					"image": "ScarlettJohansson.jpg",
+					"modifier": "+1 Aristocracy",
+					"perk": "",
+					"description": "\"Real strength comes from the mind and the mind can be manipulated using the sex. As such I want to see how long you can resist a smoking hot naked woman such as myself as she rides you and sucks you off\""
+				},
+				{
+					"name": "Gal Gadot",
+					"image": "GalGadot.jpg",
+					"modifier": "+1 Monarchy",
+					"perk": "",
+					"description": "\"I am a veteren of the royal army so you better believe I can endure anything. I however wanna see how long you can last in a fight, so why dont you try and fuck me for as long as you can and cum inside me\""
+				},
+				{
+					"name": "Madelaine Petsch",
+					"image": "MadelainePetsch.jpg",
+					"modifier": "+1 Rebellion",
+					"perk": "",
+					"description": "\"You like my assets weakling? Why don't you show me how much you want my assets by licking my pussy for the next hour. It will also increase your stamina so consider it a part of your training.\""
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Stalker",
+			"description": "Seeing your success, a young woman started stalking you and following. When you confronted her, she said she just wanted to know what it would be like to be in a relationship with a successful and rich man such as yourself. You explained that while you couldnt be in a relationship with her, you could make her feel loved and satisfied. She agreed to the deal and you took her to your house and took her virginity. You then trained her for kinkier and kinkier sex, making her into the ultimate fucking machine for your personal use only.",
+			"choices": [
+				{
+					"name": "Elle Fanning",
+					"image": "ElleFanning.jpg",
+					"modifier": "+1 Aristocracy",
+					"perk": "",
+					"description": "\"Daddy, please spank me for being a bad girl! Please slap my tits and punish my ass! I deserve it for not fucking you well enough! Please ravage all my holes and make me yours daddy!\""
+				},
+				{
+					"name": "Naomi Scott",
+					"image": "NaomiScott.jpg",
+					"modifier": "+1 Monarchy",
+					"perk": "",
+					"description": "\"I am your fuckpet master so please leash me and choke me. As your pet I will crawl on all fours, naked, just like a dog. And just like how a dog fucks bitches, I want you to fuck me, free use!\""
+				},
+				{
+					"name": "Margaret Qualley",
+					"image": "MargaretQualley2.jpg",
+					"modifier": "+1 Rebellion",
+					"perk": "",
+					"description": "\"Uhh sir, do you want to uhh fuck me? I am not too experienced, so please teach me how to pleasure a man sir. I promise to be a good student sir so please use me and teach me how to please you.\""
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Mother",
+			"description": "As a requirement for living in Debauchia, you need to be a part of a family. As such, you convince a MILF to adopt you as your son and let you live with her and her daughter. In exchange for her kindness, you offer to please her and make her reach new heights of pleasure, by fucking her every night and giving her orgasm after orgasm all night. She also gives you blowjobs every morning while you eat breakfast, and lets you manhandle her throughout the house. When you handle her tits and kiss her neck, she turns into a quivering slut who wants to fuck you.",
+			"choices": [
+				{
+					"name": "Kaya Scodelario",
+					"image": "KayaScodelario.jpg",
+					"modifier": "+1 Aristocracy",
+					"perk": "",
+					"description": "\"Son, please make me feel loved. Ever since my husband, the lord of this land, left I have been longing for a massive cock to fuck me and impregnate me, so please don't restrain yourself from using my body's bounty\""
+				},
+				{
+					"name": "Hayley Atwell",
+					"image": "HayleyAtwell.jpg",
+					"modifier": "+1 Monarchy",
+					"perk": "",
+					"description": "\"You want mommy's titties to pleasure your dick, son? Oh yea honey you like it when mommy's titties fuck your rock hard dick. Oh its ok if you came on mommy's titties, let me just wipe this off and get you hard again.\""
+				},
+				{
+					"name": "Kathryn Winnick",
+					"image": "KathrynWinnick.jpg",
+					"modifier": "+1 Rebellion",
+					"perk": "",
+					"description": "\"Babe, you are the man of the house and as such you need to please me. Please suck on my tits and pull my blonde hair as you take me in doggy. Don't worry, you can cum inside me if you want, I don't mind being filled up\""
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Sister",
+			"description": "Your adopted mother's daughter, i.e. your adopted sister, found you fucking her mother and that made her really horny. So one day, while your mother was away, she called you to her room, where she took off her clothes and started making out with you. Needless to say, you were soon inside her, making her cum all over your dick. After covering her face in cum, you looked at the door and saw your mother, fingering herself seeing you fuck your sister. Afterwards, she invited you both to her bedroom and you had the best threesome of your life with your adopted family, cumming inside both of them and making them orgasm all night long.",
+			"choices": [
+				{
+					"name": "Nina Dobrev",
+					"image": "NinaDobrev.jpg",
+					"modifier": "+1 Aristocracy",
+					"perk": "",
+					"description": "\"Big brother, I know you want to fuck me and make me yours, so go ahead and take my virginity. If my mother hadn't adopted you I would've wanted to marry you so treat me like your wife and take my purity.\""
+				},
+				{
+					"name": "Dove Cameron",
+					"image": "DoveCameron2.jpg",
+					"modifier": "+1 Monarchy",
+					"perk": "",
+					"description": "\"Big brother, do you like your little sister's body? You like my plump DSLs and large tits? I bet you will like them a lot more when they are on your cock preparing and lubing it for entering my soft wet pink virgin pussy\""
+				},
+				{
+					"name": "Jordyn Jones",
+					"image": "JordynJones.jpg",
+					"modifier": "+1 Rebellion",
+					"perk": "",
+					"description": "\"Big brother, I want you to fuck me like you fucked my mother. You know everyone in the whole kingdom wants to fuck me, but I want you and only you to take me and pleasure yourself with my petite nubile body.\""
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "ending",
+			"traits": {
+				"Aristocracy": {
+					"maximum": false,
+					"upper": 15,
+					"lower": 10
+				},
+				"Monarchy": {
+					"maximum": false,
+					"upper": 2,
+					"lower": 0
+				},
+				"Rebellion": {
+					"maximum": false,
+					"upper": 2,
+					"lower": 0
+				}
+			},
+			"title": "Complete Aristocracy Ending",
+			"description": "Your efforts help establish a new aristocratic commonwealth. The Duchess marries you making you a duke of the commonwealth. You convince all of the women you selected to join your harem. You also receive a large manor where you house your harem alongwith your wife and her daughter, Taylor.",
+			"data": [
+				{
+					"title": "Cousins",
+					"description": "As a count, you have entered a family with many branches and thus have many cousins, most of whom are hot women. Interestingly, in the aristocracy incest is not only allowed but encouraged to keep the bloodline pure. As such, many of your cousins want you to fuck them and want to join your harem. (Choose 3)",
+					"pick": 3,
+					"choices": [
+						{
+							"name": "Madison Beer",
+							"image": "MadisonBeer.jpg"
+						},
+						{
+							"name": "Camila Mendes",
+							"image": "CamilaMendes.jpg"
+						},
+						{
+							"name": "Zendaya Coleman",
+							"image": "ZendayaColeman.jpg"
+						},
+						{
+							"name": "Karen Gillian",
+							"image": "KarenGillian.jpg"
+						},
+						{
+							"name": "Lily Collins",
+							"image": "LilyCollins.jpg"
+						},
+						{
+							"name": "Kriti Sanon",
+							"image": "KritiSanon.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "ending",
+			"traits": {
+				"Aristocracy": {
+					"maximum": false,
+					"upper": 2,
+					"lower": 0
+				},
+				"Monarchy": {
+					"maximum": false,
+					"upper": 15,
+					"lower": 10
+				},
+				"Rebellion": {
+					"maximum": false,
+					"upper": 2,
+					"lower": 0
+				}
+			},
+			"title": "Complete Monarchy Ending",
+			"description": "Your efforts help maintain the autocratic regime. You marry the Queen and become the King of Debauchia. You convince or force all of the women you selected to join your harem. You live with Victoria, your wife and your harem in the Imperial Palace.",
+			"data": [
+				{
+					"title": "Queens",
+					"description": "As King of Debauchia, you wage war on the neighbhors, conquering their lands. In order to establish your rule over these newly conquered lands, you marry the Queens of these lands and take them as your wives. After seeing your massive cock, they all comply and join your kingdom happily. (Choose 3)",
+					"pick": 3,
+					"choices": [
+						{
+							"name": "Ana de Armas",
+							"image": "AnadeArmas.jpg"
+						},
+						{
+							"name": "Eva Green",
+							"image": "EvaGreen.jpg"
+						},
+						{
+							"name": "Deborah Ann Woll",
+							"image": "DeborahAnnWoll.jpg"
+						},
+						{
+							"name": "Isla Fisher",
+							"image": "IslaFisher.jpg"
+						},
+						{
+							"name": "Amanda Seyfield",
+							"image": "AmandaSeyfield.jpg"
+						},
+						{
+							"name": "Anushka Sharma",
+							"image": "AnushkaSharma.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "ending",
+			"traits": {
+				"Aristocracy": {
+					"maximum": false,
+					"upper": 2,
+					"lower": 0
+				},
+				"Monarchy": {
+					"maximum": false,
+					"upper": 2,
+					"lower": 0
+				},
+				"Rebellion": {
+					"maximum": false,
+					"upper": 15,
+					"lower": 10
+				}
+			},
+			"title": "Complete Rebellion Ending",
+			"description": "Your efforts help overthrow the autocratic regime and establish a democracy. You run for election and are elected president of Debauchia. You marry the Commander and make the Anna your personal secretary. You live in the Imperial Palace and all the women you selected join you as members of your harem.",
+			"data": [
+				{
+					"title": "Senators",
+					"description": "In the current democratic system, the president has the power to veto bills and as such holds immense power over the senate. As such, many senators maintain good relations with you and let you fuck them in exchange for political favours, a deal which you are pleased with. (Choose 3)",
+					"pick": 3,
+					"choices": [
+						{
+							"name": "Jennifer Lawrence",
+							"image": "JenniferLawrence2.jpg"
+						},
+						{
+							"name": "Diane Kruger",
+							"image": "DianeKruger.jpg"
+						},
+						{
+							"name": "Jessica Chastain",
+							"image": "JessicaChastain.jpg"
+						},
+						{
+							"name": "Jodie Whittaker",
+							"image": "JodieWhittaker.jpg"
+						},
+						{
+							"name": "Katie McGrath",
+							"image": "KatieMcGrath.jpg"
+						},
+						{
+							"name": "Reese Witherspoon",
+							"image": "ReeseWitherspoon.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "ending",
+			"traits": {
+				"Aristocracy": {
+					"maximum": true,
+					"upper": 9,
+					"lower": 5
+				},
+				"Monarchy": {
+					"maximum": false,
+					"upper": 4,
+					"lower": 0
+				},
+				"Rebellion": {
+					"maximum": false,
+					"upper": 4,
+					"lower": 0
+				}
+			},
+			"title": "Aristocracy Ending",
+			"description": "While your efforts to help the Aristocracy were decent, the commonwealth isnt established and the new reformed monarchy takes over. You convince the queen to make you the count of a nearby province to get you out of the city which she does. All the women you selected who granted Aristocracy points join you.",
+			"data": [
+				{
+					"title": "Countess",
+					"description": "As the count of the province you need to marry someone of noble blood to establish your reign. Luckily for you, a whole bunch of hot women are ready to offer themselves to you to become your countess and wife. (Choose 1)",
+					"pick": 1,
+					"choices": [
+						{
+							"name": "Rashida Jones",
+							"image": "RashidaJones.jpg"
+						},
+						{
+							"name": "Keira Knightly",
+							"image": "KeiraKnightly.jpg"
+						},
+						{
+							"name": "Karen Fukuhara",
+							"image": "KarenFukuhara.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "ending",
+			"traits": {
+				"Aristocracy": {
+					"maximum": false,
+					"upper": 4,
+					"lower": 0
+				},
+				"Monarchy": {
+					"maximum": true,
+					"upper": 9,
+					"lower": 5
+				},
+				"Rebellion": {
+					"maximum": false,
+					"upper": 4,
+					"lower": 0
+				}
+			},
+			"title": "Monarchy Ending",
+			"description": "While your efforts to help the Monarchy were decent, the monarchy is constitutionalised and the queen loses autocratic power. For your efforts, the queen makes you a minister in the government, giving you power and wealth. All the women you selected who granted Monarchy points join you.",
+			"data": [
+				{
+					"title": "Slave",
+					"description": "In the subsequents conquests of the constitutional kingdom, many slaves are captured. As a member of the government, you pull some strings and take one of these slaves yourself, to be used as your sextoy. You do whatever you please with her and use her aggresively. (Choose 1)",
+					"pick": 1,
+					"choices": [
+						{
+							"name": "Alejandra Guilmant",
+							"image": "AlejandraGuilmant.jpg"
+						},
+						{
+							"name": "Camila Cabello",
+							"image": "CamilaCabello.jpg"
+						},
+						{
+							"name": "Dakota Johnson",
+							"image": "DakotaJohnson2.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "ending",
+			"traits": {
+				"Aristocracy": {
+					"maximum": false,
+					"upper": 4,
+					"lower": 0
+				},
+				"Monarchy": {
+					"maximum": false,
+					"upper": 4,
+					"lower": 0
+				},
+				"Rebellion": {
+					"maximum": true,
+					"upper": 9,
+					"lower": 5
+				}
+			},
+			"title": "Rebellion Ending",
+			"description": "While your efforts to help the Rebellion were decent, the revolution fails and many revolutionary leaders are captured. Luckily you were able to escape with all the women you chose that gave Rebellion points. You establish yourself in a nearby village and live life as a villager.",
+			"data": [
+				{
+					"title": "Farmer",
+					"description": "You were able to convinve one of the village farmers to work for you. This woman told you she was a virgin and had never even seen a dick. Seeing her inexperience as a tragedy, you decide to show her your dick and fuck her all night. Now she basically lives with you as cum-addicted fuckpet. (Choose 1)",
+					"pick": 1,
+					"choices": [
+						{
+							"name": "Dianna Agron",
+							"image": "DiannaAgron.jpg"
+						},
+						{
+							"name": "Emily Rudd",
+							"image": "EmilyRudd.jpg"
+						},
+						{
+							"name": "Hunter King",
+							"image": "HunterKing.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "ending",
+			"traits": {
+				"Aristocracy": {
+					"maximum": false,
+					"upper": 10,
+					"lower": 5
+				},
+				"Monarchy": {
+					"maximum": false,
+					"upper": 10,
+					"lower": 5
+				},
+				"Rebellion": {
+					"maximum": false,
+					"upper": 4,
+					"lower": 0
+				}
+			},
+			"title": "Aristocracy and Monarchy Ending",
+			"description": "Your efforts against the rebellion bear fruit and the rebellion is crushed. In the new order, the peasants land is carved up between the Aristocracy and the Monarchy. As such, you are given a manor and all the women you selected that gave Monarchy and Aristocracy points join your harem.",
+			"data": [
+				{
+					"title": "Maids",
+					"description": "In order to maintain your vast estate, you hire 2 maids, who clean the house and serve your needs. Since they are sworn to secrecy, you can use them for any purpose and they will have to accept. You therefore make your maids free use for your harem and you, allowing you to fuck them whenever and wherever you please. (Choose 2)",
+					"pick": 2,
+					"choices": [
+						{
+							"name": "Amanda Cerny",
+							"image": "AmandaCerny.jpg"
+						},
+						{
+							"name": "Jia Lissa",
+							"image": "JiaLissa.jpg"
+						},
+						{
+							"name": "Krysten Ritter",
+							"image": "KrystenRitter.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "ending",
+			"traits": {
+				"Aristocracy": {
+					"maximum": false,
+					"upper": 4,
+					"lower": 0
+				},
+				"Monarchy": {
+					"maximum": false,
+					"upper": 10,
+					"lower": 5
+				},
+				"Rebellion": {
+					"maximum": false,
+					"upper": 10,
+					"lower": 5
+				}
+			},
+			"title": "Monarchy and Rebellion Ending",
+			"description": "Your efforts against the Aristocracy succeed and they are removed from their positions. In their place, the Queen establishes a semi-constitutaional monarchy, with you as president for life. You are given the presidential palace to live in and all the women you selected who gave Monarchy or Rebellion points join your harem.",
+			"data": [
+				{
+					"title": "Ministers",
+					"description": "As president, you need to select a cabinet of ministers, who are subservient to you and the Queen. Since you select the ministers, all candidates want to be on your good side and let you fuck them in order to be ministers. They liked your dick so much that even after they become ministers, they let you continue fucking them. (Choose 2)",
+					"pick": 2,
+					"choices": [
+						{
+							"name": "Violett Beane",
+							"image": "ViolettBeane.jpg"
+						},
+						{
+							"name": "Zooey Deschanel",
+							"image": "ZooeyDeschanel.jpg"
+						},
+						{
+							"name": "Disha Patani",
+							"image": "DishaPatani.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "ending",
+			"traits": {
+				"Aristocracy": {
+					"maximum": false,
+					"upper": 10,
+					"lower": 5
+				},
+				"Monarchy": {
+					"maximum": false,
+					"upper": 4,
+					"lower": 0
+				},
+				"Rebellion": {
+					"maximum": false,
+					"upper": 10,
+					"lower": 5
+				}
+			},
+			"title": "Rebellion and Aristocracy Ending",
+			"description": "Your efforts against the Monarchy bear fruit and the monarchy is replaced with a representative democracy. The members of the Aristocracy quickly get elected to all positions of power and split up the Queen's estates among themselves. You are given some of the Queen's castles as residences and all the women you selected who granted Rebellion or Aristocracy points join your harem.",
+			"data": [
+				{
+					"title": "Whores",
+					"description": "You convert one of the castles you inherited into a brothel and filled it with whores to earn money. In addition you took 2 whores from the brothel to be your personal whores, who you ravage and fuck however you want and keep in the underground dungeon. Your harem also fucks these whores and uses their assets when you are not using them. (Choose 2)",
+					"pick": 2,
+					"choices": [
+						{
+							"name": "Sydney Sweeny",
+							"image": "SydneySweeny.jpg"
+						},
+						{
+							"name": "Elizabeth Turner",
+							"image": "ElizabethTurner.jpg"
+						},
+						{
+							"name": "Barbara Palvin",
+							"image": "BarbaraPalvin.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "ending",
+			"traits": {
+				"Aristocracy": {
+					"maximum": false,
+					"upper": 4,
+					"lower": 3
+				},
+				"Monarchy": {
+					"maximum": false,
+					"upper": 4,
+					"lower": 3
+				},
+				"Rebellion": {
+					"maximum": false,
+					"upper": 4,
+					"lower": 3
+				}
+			},
+			"title": "Balance Ending",
+			"description": "",
+			"data": [
+				{
+					"title": "Professors",
+					"description": "",
+					"pick": 2,
+					"choices": [
+						{
+							"name": "Anne Hathaway",
+							"image": "AnneHathaway.jpg"
+						},
+						{
+							"name": "Brie Larson",
+							"image": "BrieLarson3.jpg"
+						},
+						{
+							"name": "Elizabeth Olsen",
+							"image": "ElizabethOlsen.jpg"
+						}
+					]
+				},
+				{
+					"title": "Students",
+					"description": "",
+					"pick": 2,
+					"choices": [
+						{
+							"name": "Lily James",
+							"image": "LilyJames2.jpg"
+						},
+						{
+							"name": "Olivia Holt",
+							"image": "OliviaHolt.jpg"
+						},
+						{
+							"name": "Lili Reinhart",
+							"image": "LiliReinhart.jpg"
+						}
+					]
+				}
+			]
+		}
+	]
+}
