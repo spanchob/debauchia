@@ -37,7 +37,7 @@ function Photopara(props: {
 					<div className="choice-image">
 						<img
 							className="choice-image"
-							src={"/celebs/" + props.celeb.image}
+							src={"celebs/" + props.celeb.image}
 							alt={props.celeb.name}
 						/>
 					</div>

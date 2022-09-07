@@ -133,7 +133,7 @@ function Choice(props: {
 							<div className="choice-image">
 								<img
 									className="choice-image"
-									src={"/celebs/" + choice.image}
+									src={"celebs/" + choice.image}
 									alt={choice.name}
 								/>
 							</div>

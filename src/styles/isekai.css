@@ -12,6 +12,37 @@ body,
 	height: 100%;
 }
 
+@media (max-width: 768px) {
+	:root {
+		font-size: 16px;
+	}
+
+	.choice-box {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.photopara {
+		flex-direction: column;
+	}
+}
+
+@media (min-width: 768px) {
+	:root {
+		font-size: 24px;
+	}
+
+	.choice-box {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+	}
+
+	.photopara {
+		flex-direction: row;
+	}
+}
+
 main {
 	display: flex;
 	gap: 2rem;
@@ -34,13 +65,13 @@ main {
 	border: var(--text-color) solid 1px;
 	padding: 0.5rem;
 	border-radius: 0.5rem;
+	margin: 0.5rem;
 }
 
 .choice-box {
-	display: grid;
-	grid-template-columns: repeat(3, 1fr);
 	gap: 1rem;
-	justify-items: center;
+	justify-content: center;
+
 	padding: 1rem;
 	width: auto;
 }
@@ -67,7 +98,7 @@ main {
 
 .main-title {
 	margin: 1rem;
-	font-size: 5rem;
+	font-size: 4rem;
 	font-family: "Cinzel";
 	text-align: center;
 }
@@ -127,6 +158,6 @@ main {
 	margin: 0.5rem;
 	border-radius: 0.5rem;
 	display: flex;
-	flex-direction: row;
+
 	gap: 1rem;
 }
