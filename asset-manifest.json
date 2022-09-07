@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/debauchia/static/css/main.5d350103.css",
-    "main.js": "/debauchia/static/js/main.788973ac.js",
+    "main.js": "/debauchia/static/js/main.43811489.js",
     "index.html": "/debauchia/index.html",
     "main.5d350103.css.map": "/debauchia/static/css/main.5d350103.css.map",
-    "main.788973ac.js.map": "/debauchia/static/js/main.788973ac.js.map"
+    "main.43811489.js.map": "/debauchia/static/js/main.43811489.js.map"
   },
   "entrypoints": [
     "static/css/main.5d350103.css",
-    "static/js/main.788973ac.js"
+    "static/js/main.43811489.js"
   ]
 }
