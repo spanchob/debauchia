@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/debauchia/static/css/main.c86252f2.css",
+    "main.js": "/debauchia/static/js/main.631c8094.js",
+    "index.html": "/debauchia/index.html",
+    "main.c86252f2.css.map": "/debauchia/static/css/main.c86252f2.css.map",
+    "main.631c8094.js.map": "/debauchia/static/js/main.631c8094.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c86252f2.css",
+    "static/js/main.631c8094.js"
+  ]
+}
